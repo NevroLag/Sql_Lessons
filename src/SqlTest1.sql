@@ -5,7 +5,7 @@ CREATE TABLE employees_bd
 
 CREATE TABLE departments_bd
 (
-    tabNum SERIAL PRIMARY KEY,
+
 );
 
 /*
